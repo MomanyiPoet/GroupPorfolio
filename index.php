@@ -38,7 +38,7 @@
       <div class="collapse navbar-collapse w-100 pt-3 pb-2 py-lg-0 ms-lg-12 ps-lg-5" id="navigation">
         <ul class="navbar-nav navbar-nav-hover ms-auto">
           <li class="nav-item dropdown dropdown-hover mx-2 ms-lg-6">
-            <a class="nav-link" href="landingpage.php">
+            <a class="nav-link" href="index.php">
               Home
             </a>
           </li>
@@ -88,13 +88,13 @@
                 <div class="col-lg-4 col-md-6 col-12 mt-n5">
                   <a href="javascript:;">
                     <div class="p-3 pe-md-0">
-                      <img class="w-100 border-radius-md shadow-lg" src="assets/img/team-5.jpg" alt="image">
+                      <img class="w-100 border-radius-md shadow-lg" src="assets/img/bruce-mars.jpg" alt="image">
                     </div>
                   </a>
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
-                    <h5 class="mb-0">Emma Roberts</h5>
+                    <h5 class="mb-0">Member</h5>
                     <h6 class="text-info">UI Designer</h6>
                     <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
@@ -114,7 +114,7 @@
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
-                    <h5 class="mb-0">William Pearce</h5>
+                    <h5 class="mb-0">Member</h5>
                     <h6 class="text-info">Data Analyst</h6>
                     <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
@@ -130,13 +130,13 @@
                 <div class="col-lg-4 col-md-6 col-12 mt-n5">
                   <a href="javascript:;">
                     <div class="p-3 pe-md-0">
-                      <img class="w-100 border-radius-md shadow-lg" src="assets/img/ivana-squares.jpg" alt="image">
+                      <img class="w-100 border-radius-md shadow-lg" src="assets/img/bruce-mars.jpg" alt="image">
                     </div>
                   </a>
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
-                    <h5 class="mb-0">Ivana Flow</h5>
+                    <h5 class="mb-0">Member</h5>
                     <h6 class="text-info">Front End Developer</h6>
                     <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
@@ -150,13 +150,13 @@
                 <div class="col-lg-4 col-md-6 col-12 mt-n5">
                   <a href="javascript:;">
                     <div class="p-3 pe-md-0">
-                      <img class="w-100 border-radius-md shadow-lg" src="assets/img/ivana-square.jpg" alt="image">
+                      <img class="w-100 border-radius-md shadow-lg" src="assets/img/bruce-mars.jpg" alt="image">
                     </div>
                   </a>
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
-                    <h5 class="mb-0">Marquez Garcia</h5>
+                    <h5 class="mb-0">Member</h5>
                     <h6 class="text-info">JS Developer</h6>
                     <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
